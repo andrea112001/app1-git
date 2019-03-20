@@ -7,16 +7,16 @@
    
    <name> app1-2019 Datos del Dispositivo </name>
    
-   <descrption>
+   <description>
    Aplicacion que nos muestra la informacion referente al dispositivo Movil
-   </descrption>
+   </description>
    
    <author href="https://build.phonegap.com" email="cb16.tepoz.ximil.andrea@gmail.com">
    andrea tepoz ximil
    </author>
    
    <!--Personaliza la aplicacion y plataforma -->
-   <preferencia name="orientacion" value="default"/>
+   <preference name="orientation" value="default"/>
    <!--<preference name="orientacion"  value="portrait" />
    <--preference name="orientation" value="landscape" /> -->
    <preference name="target-device"  value="universal" />
